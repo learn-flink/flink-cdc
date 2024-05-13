@@ -3,7 +3,7 @@
   ```
     docker-compose exec mysql mysql -uroot -p123456
   ```
-* 创建数据和表，并填充数据。
+* 创建数据和表，并填充数据。 
   ```
  CREATE DATABASE db_1;
  USE db_1;
